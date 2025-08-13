@@ -1,0 +1,17 @@
+brand,km_driven,fuel,owner,selling_price
+Maruti,35000,Petrol,First,250000
+Maruti,40000,Diesel,Second,240000
+Hyundai,42000,Diesel,Second,300000
+Hyundai,39000,Petrol,First,310000
+Tata,28000,Petrol,First,220000
+Tata,32000,Diesel,Third,210000
+Honda,50000,CNG,Third,180000
+Honda,47000,Petrol,First,190000
+Mahindra,60000,Diesel,First,350000
+Mahindra,58000,Petrol,Second,340000
+Toyota,30000,Petrol,Second,400000
+Toyota,34000,Diesel,First,390000
+Ford,55000,Diesel,First,270000
+Ford,53000,Petrol,Second,280000
+Renault,45000,Petrol,Third,200000
+Renault,46000,Diesel,First,210000
